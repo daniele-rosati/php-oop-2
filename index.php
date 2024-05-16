@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 <!-- 
 Immaginare quali sono le classi necessarie per creare uno shop online con le seguenti caratteristiche:
 
@@ -11,6 +12,8 @@ Stampiamo delle card contenenti i dettagli dei prodotti, come immagine, titolo, 
 
 -->
 
+=======
+>>>>>>> af17314ab71d58599aad81a8800415d5b0b29585
 <?php
 
 //DEBUGGER
