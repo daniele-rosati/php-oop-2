@@ -11,9 +11,9 @@ require __DIR__ . '/../Models/Food.php';
 require __DIR__ . '/../Models/Kennel.php';
 
 // CATEGORIES
-$dogCategory = new Category('Cani', '<i class="fa-solid fa-dog"></i>');
+$dogCategory = new Category('Cani', '<i class="fa-solid fa-dog" style="color: #000000;"></i>');
 
-$catCategory = new Category('Gatti', '<i class="fa-solid fa-cat"></i>');
+$catCategory = new Category('Gatti', '<i class="fa-solid fa-cat" style="color: #000000;"></i>');
 
 // TOYS
 $kong = new Toy($dogCategory, 'Kong', 10.99, '01KONG', 10, 'Rosso', 'Gomma', 'piccola');
